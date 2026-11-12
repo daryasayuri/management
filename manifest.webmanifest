@@ -1,0 +1,9 @@
+{
+  "name": "Разгрузить голову",
+  "short_name": "Дела",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f8",
+  "theme_color": "#213143",
+  "lang": "ru"
+}
